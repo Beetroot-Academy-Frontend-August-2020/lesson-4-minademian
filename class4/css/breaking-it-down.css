@@ -1,0 +1,15 @@
+p {
+    font-size: 13px;
+    color: red; /* can be written in several ways */
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+body {
+    /* acceptable but your IDE may complain */
+}
+
+img {
+    width: ; /* error! error! error! */
+
+}
